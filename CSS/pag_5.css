@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body{
+    width: 1440px;
+    height: 954px;
+
+}
+.title{
+    font-size: 30px;
+    max-width: 531px;
+    max-height: 208px;
+    font-size: 45px;
+}
+.content{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+    max-width: 1312px auto;
+    max-height: 549px auto;
+}
+.der{
+    width:400px;
+    height: auto;
+}
+.cen{
+    width: 400px;
+    height: auto;
+}
+.izq{
+    width: 400px;
+    height: auto;
+}
+.content{
+    color:grey
+}
+h3{
+    font-size: 1.5rem;
+}
+p{
+    font-size: 26px;
+    text-align: left;
+    height: 132px;
+}
