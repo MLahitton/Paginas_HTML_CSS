@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Montserrat:wght@400;700&display=swap');
+
+body{
+    margin-left: 64px;
+}
+.Title{
+    width: 833px;
+    height: 176px;
+    font-size: 35px;
+    margin-bottom: 64px;
+}
+h1{
+    font-family: 'Playfair display';
+}
+.card{
+    display: flex;
+    gap: 16px;
+}
+
+.SubFrame_Top{
+    width: 316px;
+    min-height: 133px;
+}
+h3{
+    color:lightgray;
+    font-size: 30px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+
+}
+.imagen{
+    width: 316px;
+    height: 402px;
+}
+.SubFrame_bot{
+    width: 316px;
+}
